@@ -1,0 +1,2 @@
+# fristRipository
+初めてのリポジトリー
